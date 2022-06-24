@@ -1,4 +1,4 @@
-# DIO's Git/GitGub Project Challenge Repository
+# DIO's Git/Github Project Challenge Repository
 Project Challenge About Git/GitHub
 
 
